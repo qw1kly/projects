@@ -1,2 +1,2 @@
-# projects
+# Projects
 My implemented projects
