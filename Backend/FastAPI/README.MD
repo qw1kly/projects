@@ -30,6 +30,8 @@ TELEGRAM: @fffzzzaapp
 git clone https://github.com/yourusername/SocialMedia.git
 cd SocialMedia
 ```
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A high-performance backend for social media applications with JWT authentication, subscription system, and post management.
 
 ✨ Key Features
