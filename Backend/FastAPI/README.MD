@@ -23,13 +23,8 @@ TELEGRAM: @fffzzzaapp
 - Python 3.9+
 - MySQL
 
-Установка
-
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/yourusername/SocialMedia.git
-cd SocialMedia
-```
+Библиотеки --> requirements.txt
+Предстоящие обновления --> Онлайн-чат(WebSockets), Рекомендации людей для подписки(BFS)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A high-performance backend for social media applications with JWT authentication, subscription system, and post management.
@@ -49,9 +44,5 @@ Prerequisites
 - Python 3.9+
 - MySQL database
 
-Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/SocialMedia.git
-cd SocialMedia
+Depends --> requirements.txt
+Upcoming updates --> Online-chat(WebSockets), People recommendation(BFS)
