@@ -46,4 +46,6 @@ Prerequisites
 - MySQL database
 
 Depends --> requirements.txt
+
 Upcoming updates --> Online-chat(WebSockets), People recommendation(BFS)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
